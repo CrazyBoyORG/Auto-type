@@ -1,2 +1,2 @@
-# a
-S
+# Auto-Type
+Auto-type with Python
